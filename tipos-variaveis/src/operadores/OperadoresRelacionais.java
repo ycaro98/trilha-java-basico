@@ -1,10 +1,11 @@
+package operadores;
 public class OperadoresRelacionais {
     public static void main(String[] args) {
         String nomeA = "Ycaro";
         String nomeB = new String("Ycaro");
 
         System.out.println(nomeA.equals(nomeB));
-        
+
         /*String nomeA = "Ycaro";
         String nomeB = "Icaro";  //
 

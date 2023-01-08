@@ -1,3 +1,4 @@
+package operadores;
 
 public class TesteTipo {
 	public static void main(String[] args) {

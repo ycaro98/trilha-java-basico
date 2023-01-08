@@ -1,3 +1,4 @@
+package operadores;
 public class OperadoresCondicionais{
     public static void main(String[] args) {
         int a, b;

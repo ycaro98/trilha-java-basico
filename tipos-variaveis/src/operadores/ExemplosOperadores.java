@@ -1,3 +1,4 @@
+package operadores;
 public class ExemplosOperadores {
     public static void main(String[] args) {
         boolean variavel = true;
